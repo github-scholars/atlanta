@@ -8,7 +8,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
+defaults:
+  - scope:
+      type: projects
+    values:
+      layout: generic
+collections:
+  projects:
+    output: true
+    permalink: :name.html
 # Build settings
 markdown: kramdown
 gems:
