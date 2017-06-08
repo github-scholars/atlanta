@@ -4,6 +4,14 @@ title: About the GitHub Scholars Program
 image: images/pic11.jpg
 ---
 
-<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<p>The GitHub Scholars Program focuses on providing selected participants an opportunity to learn how to jump start their career in technology. Some of the opportunities GitHub Scholars experience include:
+<ul>
+<li>Vist a technology company in their area</li>
+<li>Create a GitHub account</li>
+<li>Learn interview skills, create a resume and LinkedIn profile</li>
+<li>Access to a device like a <a href="https://kano.me/">Kano</a></li>
+<li>Learn coding and Git version controls</li>
+<li>Plan a community improvement project with other Scholars</li>
+</ul>
+</p>
+<p>For more information on how you can participate in the GitHub Scholars program go here: <a href="www.google.com">LINK</a></p>
