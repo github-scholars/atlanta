@@ -1,24 +1,19 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Welcome GitHub Scholars - Atlanta!
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+## Adding your Scholar page
+1. Create a new file in the `_scholars` folder using the following naming convention: `username.md` where username is your GitHub handle.
+1. Open the `_templates/scholar-template.md` file and **Copy** the text in the file.
+1. In the file you created in **Step 1** add the content you just copied by using the **Paste** command.
+1. Modify the content based on the instructions in the content you pasted.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+## Adding your Project page
 
 
 Credits:
+	Forty by HTML5 UP
+	html5up.net | @ajlkn | https://aj.lkn.io/ | https://github.com/ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 	Demo Images:
 		Unsplash (unsplash.com)
