@@ -4,5 +4,5 @@ headliner:
   image: stockATL.jpg
   text: My awesome tagline.
   subtext: My amazing subtext.
-  callToAction: Get Started
+  callToAction: See how we're changing ATL
 ---

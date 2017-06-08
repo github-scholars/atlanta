@@ -1,0 +1,37 @@
+{% include header.html %}
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>{{ page.title }}</h1>
+									</header>
+									<span class="image main"><img src="{% if page.image %}{{ page.image}}{% else %}images/pic11.jpg{%endif%}" alt="" /></span>
+
+									{{ page.content }}
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+
+				<!-- Footer -->
+					{% include footer.html %}
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
