@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: About the GitHub Scholars Program
-image: images/github-mark.png
+image: images/ch-github.png
 ---
 
 <p>The GitHub Scholars Program focuses on providing selected participants an opportunity to learn how to jump start their career in technology. Some of the opportunities GitHub Scholars experience include:
