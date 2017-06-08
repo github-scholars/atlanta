@@ -1,0 +1,48 @@
+{% include header.html %}
+
+<!-- Main -->
+	<div id="main" class="alt">
+
+		<section id="one">
+				<div class="inner">
+					<header class="major">
+						<h1>{{ page.title }}</h1>
+					</header>
+
+
+					<div class="box alt">
+						<div class="row 50% uniform">
+
+							{% for scholar in site.scholars %}
+									<div class="3u{% if forloop.index == 4 %}${% endif %}">
+										<span class="image fit">
+											<a href="{{ scholar.url }}">
+												<img src="{% if scholar.image %}{{ scholar.image }}{% else %}images/pic10.jpg{% endif %}" alt="" />
+											</a>
+										</span>
+									</div>
+							{% endfor %}
+
+						</div>
+
+
+					</div>
+				</div>
+				</section>
+
+</div>
+				<!-- Footer -->
+				{% include footer.html %}
+
+</div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

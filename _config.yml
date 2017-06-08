@@ -17,6 +17,9 @@ collections:
   projects:
     output: true
     permalink: :name.html
+  scholars:
+    output: true
+    permalink: :name.html
 # Build settings
 markdown: kramdown
 gems:

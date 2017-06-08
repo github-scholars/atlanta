@@ -1,4 +1,4 @@
 ---
-layout: landing
+layout: grid
 title: Meet the GitHub Scholars
 ---
