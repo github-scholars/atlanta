@@ -14,4 +14,4 @@ image: images/ch_github.png
 <li>Plan a community improvement project with other Scholars</li>
 </ul>
 </p>
-<p>For more information on how you can participate in the GitHub Scholars program go here: <a href="www.google.com">LINK</a></p>
+<p>For more information on how you can participate in the GitHub Scholars program, visit the <a href="https://blackandcollegebound.wixsite.com/blackandcollege/ghs-overview">Black and College Bound website</a></p>
