@@ -16,7 +16,7 @@
 							{% for scholar in site.scholars %}
 									<div class="3u{% if forloop.index == 4 %}${% endif %}">
 										<span class="image fit">
-											<a href="{{ scholar.url }}">
+											<a href="{{ site.baseurl }}{{ scholar.url }}">
 												<img src="{% if scholar.image %}{{ scholar.image }}{% else %}images/pic10.jpg{% endif %}" alt="" />
 											</a>
 										</span>
