@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: Justin Jackson
-description: Freshman in highschool
+description: Freshman in High School
 ---
 
-LinkedIN: <justin jackson>
+LinkedIN: https://www.linkedin.com/in/justin-jackson-69a094147/
