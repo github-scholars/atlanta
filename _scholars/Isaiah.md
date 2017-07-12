@@ -1,7 +1,7 @@
 ---
 layout: generic
-title: Scholar 1
-description: scholar 1 description
+title: Isaiah Demetrius Johnson
+description: GitHub Scholar
 ---
 
-Something about you here
+https://isaiahj1.github.io/my-resume/
