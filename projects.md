@@ -1,3 +1,3 @@
 ---
-layout: landing
+layout: Social Impact Projects
 ---
