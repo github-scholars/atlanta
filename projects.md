@@ -1,3 +1,3 @@
 ---
-layout: Social Impact Projects
+layout: GitHub Scholars Social Impact Projects
 ---
