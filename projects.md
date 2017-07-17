@@ -1,3 +1,5 @@
 ---
-layout: GitHub Scholars Social Impact Projects
+layout: landing
+title: Title Here
+description: Description here
 ---
