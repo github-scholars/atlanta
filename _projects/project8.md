@@ -2,7 +2,7 @@
 layout: generic
 title: Project 8
 description: Iriq Moore, Kyle Sims, Chelsea Beauford, DaChristian Wesley, Kellis Bond
-image: https://image.ibb.co/fhx3Sv/placeimg_640_480_tech.jpg
+image: https://image.ibb.co/bDe1xv/IMG_4242.jpg
 ---
 
 <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet
