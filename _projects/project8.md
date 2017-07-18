@@ -1,22 +1,9 @@
 ---
 layout: generic
 title: Project 8
-description: Iriq Moore, Kyle Sims, Chelsea Beauford, DaChristian Wesley, Kellis Bond
+description: Kyle Sims, Kellis Bond, Chelsea Beauford, Iriq Moore, DaChristian Wesley
 image: https://image.ibb.co/bDe1xv/IMG_4242.jpg
 ---
 
-<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet
-dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id
-ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium
-pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis,
-hendrerit.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad
-litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam
-venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet
-venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant
-morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum
-dolor.</p>
+<p>Our project is called Tech-Ops, a mobile app for children with special needs. The app would target students from grades 6 through 11 with learning disorders, specifically dislexia. We chose this age range because after some research, we came to find that dislexia worsens during middle school due to the increasingly rigorous curriculum. In addition, we would hold classes for students who attended Atlanta public schools and provide the neccessary technology and resources to help them succeed. The app would constantly be improved with updates that featured new lessons and interface changes. We would beta-test the app with groups of students who have dislexia, and ask for helpful learning tools from highschool and college alumni who suffered from dislexia.</p>
+
