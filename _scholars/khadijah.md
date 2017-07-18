@@ -2,5 +2,5 @@
 layout: generic
 title: Khadijah Baptiste
 description: Github scholar
-image: https://image.ibb.co/hQLiua/Khadijah.png
+image: https://image.ibb.co/kjtE0F/Khadijah.png
 ---
