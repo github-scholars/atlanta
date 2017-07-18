@@ -2,5 +2,5 @@
 layout: generic
 title: Taylor Thompson
 description: Github scholar
-image: https://image.ibb.co/mcOiSv/Taylor.png
+image: https://image.ibb.co/iO1nnv/Taylor.png
 ---
