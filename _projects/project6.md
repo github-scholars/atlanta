@@ -2,6 +2,7 @@
 layout: generic
 title: Project 6
 description: Isaiah Johnson, Keondra Lyons, Jarral Thompkins, Sierra Cleveland, Justin Jackson
+image: https://image.ibb.co/kMXTSv/IMG_6515.jpg
 ---
 
 <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet
