@@ -1,7 +1,8 @@
 ---
 layout: generic
 title: Project 9
-description: Anna Rodgers, Joylesia Homer, Kefentse Myers, Jaydyn Gadd, Joshua Marshall 
+description: Anna Rodgers, Joylesia Homer, Kefentse Myers, Jaydyn Gadd, Joshua Marshall
+image: https://image.ibb.co/iVRoSv/IMG_2990.jpg
 ---
 
 <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet
