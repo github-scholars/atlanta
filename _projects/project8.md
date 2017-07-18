@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: Tech-Ops Mobile App
+title: Tech Ops Mobile App
 description: Kyle Sims, Kellis Bond, Chelsea Beauford, Iriq Moore, DaChristian Wesley
 image: https://image.ibb.co/bDe1xv/IMG_4242.jpg
 ---
