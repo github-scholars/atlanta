@@ -2,6 +2,7 @@
 layout: generic
 title: Project 7
 description: Kayla Fowler, Jordan Gastion, Jaydin Tinch, Cameron Frye, Henry Williams
+image: https://image.ibb.co/morBfF/IMG_6938.jpg
 ---
 
 <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet
