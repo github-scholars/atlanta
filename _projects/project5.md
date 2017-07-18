@@ -1,5 +1,5 @@
 ---
-title: Project 5
+title: Get Out! Website
 description: Mikaiya Hillman, Sa-nai Hodge, Kidane Myers, Krystal White
 image: https://image.ibb.co/jdDP0F/IMG_8797.jpg
 ---
