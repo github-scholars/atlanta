@@ -1,21 +1,7 @@
 ---
 title: Project 6
-description: Isaiah Johnson, Keondra Lyons, Jarral Thompkins, Sierra Cleveland, Justin Jackson
+description: Sierra Cleveland, Justin Jackson, Keondra Lyons, Jarral Thompkins, Isaiah Johnson  
 image: https://image.ibb.co/kMXTSv/IMG_6515.jpg
 ---
 
-<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet
-dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id
-ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium
-pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis,
-hendrerit.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad
-litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam
-venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet
-venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant
-morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet,
-fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum
-dolor.</p>
+<p>Our project is targetting a prominent issue contributing to the social divide, language aquisition. Our idea is to get people together and teach them the basics of a language by utilizing tech. Unlike other programs aimed toward language aquisition, our project would also teach sign-language by use of tablets and instructive, interactive lessons. Solving the social divide would allow people in different communities who wouldn't typically communicate with each other the oppurtunity to collaborate and improve the environment around them.</p>
