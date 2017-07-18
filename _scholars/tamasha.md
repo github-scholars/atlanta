@@ -2,5 +2,5 @@
 layout: generic
 title: Tamasha Sellers
 description: Github scholar
-image: https://image.ibb.co/fGH4Za/Tamasha.png
+image: https://image.ibb.co/dVj9Za/Tamasha.png
 ---
