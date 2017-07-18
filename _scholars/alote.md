@@ -2,5 +2,5 @@
 layout: generic
 title: Alote Jones
 description: Github scholar
-image: https://image.ibb.co/eiM1fF/Alote.png
+image: https://image.ibb.co/juQ2LF/Alote.png
 ---
