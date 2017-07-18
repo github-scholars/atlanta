@@ -2,5 +2,5 @@
 layout: generic
 title: Brandon Thompson
 description: Github scholar
-image: https://image.ibb.co/ifuF7v/Brandon.png
+image: https://image.ibb.co/nxbCnv/Brandon.png
 ---
