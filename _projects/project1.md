@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: Tutor Gang
+title: Tutor Gang Tutorial Service
 description: Geoffrey Thorpe, Courtney Sanford, Khadijah Baptiste, Taylor Thompson, Alote Jones
 image: https://image.ibb.co/fhx3Sv/placeimg_640_480_tech.jpg
 ---
