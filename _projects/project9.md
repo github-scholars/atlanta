@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: Project 9
+title: JoyApp
 description: Kefentse Myers, Joylesia Homer, Anna Rodgers, Joshua Marshall, Jaydyn Gadd
 image: https://image.ibb.co/iVRoSv/IMG_2990.jpg
 ---
