@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: JoyApp
+title: 'JoyApp' Mobile Application
 description: Kefentse Myers, Joylesia Homer, Anna Rodgers, Joshua Marshall, Jaydyn Gadd
 image: https://image.ibb.co/iVRoSv/IMG_2990.jpg
 ---
