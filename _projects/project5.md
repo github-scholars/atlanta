@@ -1,5 +1,5 @@
 ---
-title: Get Out Website
+title: 'Get Out' Web Portal
 description: Mikaiya Hillman, Sa-nai Hodge, Kidane Myers, Krystal White
 image: https://image.ibb.co/jdDP0F/IMG_8797.jpg
 ---
