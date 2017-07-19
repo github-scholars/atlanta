@@ -2,6 +2,7 @@
 layout: generic
 title: Cameron
 description: Student at Tuckekr High School
+image: https://image.ibb.co/bOrKkQ/484A8275.jpg
 ---
 
 Resume: https://cameronf1.github.io/resume/
