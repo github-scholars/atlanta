@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: Cameron
-description: Student at Tuckekr High School
+description: Student at Tucker High School
 image: https://image.ibb.co/bOrKkQ/484A8275.jpg
 ---
 
