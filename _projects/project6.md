@@ -1,5 +1,5 @@
 ---
-title: 'Lit-Language' Mobile Application
+title: Lit-Language Mobile Application
 description: Sierra Cleveland, Justin Jackson, Keondra Lyons, Jarral Thompkins, Isaiah Johnson  
 image: https://image.ibb.co/kMXTSv/IMG_6515.jpg
 ---
