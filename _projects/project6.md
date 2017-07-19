@@ -1,5 +1,5 @@
 ---
-title: Project 6
+title: Lit-Language 
 description: Sierra Cleveland, Justin Jackson, Keondra Lyons, Jarral Thompkins, Isaiah Johnson  
 image: https://image.ibb.co/kMXTSv/IMG_6515.jpg
 ---
