@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: Project 7
+title: Village Child
 description: Kayla Fowler, Jordan Gastion, Jaydin Tinch, Cameron Frye, Henry Williams
 image: https://image.ibb.co/morBfF/IMG_6938.jpg
 ---
