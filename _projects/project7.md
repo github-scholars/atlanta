@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: Village Child
+title: 'Village Child' Webpage 
 description: Kayla Fowler, Jordan Gastion, Jaydin Tinch, Cameron Frye, Henry Williams
 image: https://image.ibb.co/morBfF/IMG_6938.jpg
 ---
