@@ -1,6 +1,7 @@
 ---
 layout: generic
-title: [̲̅j̲̅][̲̅a̲̅][̲̅y̲̅][̲̅d̲̅][̲̅i̲̅][̲̅n̲̅] [̲̅j̲̅] [̲̅t̲̅][̲̅i̲̅][̲̅n̲̅][̲̅c̲̅][̲̅h̲̅]
-description: Jaydin J Tinch is smart, funny, and a fun. I love to learn and 
+title: Jaydin Tinch
+description: scholar 1 description
+image: https://image.ibb.co/hAvOC5/484A8240.jpg
 ---
 
