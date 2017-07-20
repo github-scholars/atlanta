@@ -2,6 +2,7 @@
 layout: generic
 title: Joshua Marshall
 description: GitHub Scholar
+image: https://image.ibb.co/nn51zk/484A8238.jpg
 ---
 
 Resume:https://joshuamarshall1.github.io/Resume/
