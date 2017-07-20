@@ -4,5 +4,4 @@ title: Hector Alfaro
 description: Trainer for GitHub
 ---
 
-Resume: https://githubteacher.github.io/resume/
-LinkedIn: <link here> 
+You can see my resume [here](https://githubteacher.github.io/resume/) and my LinkedIn profile [here](https://www.linkedin.com/in/halfaro1/).
