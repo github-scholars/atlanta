@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: Kyle Sims
-description: scholar 1 description
+description: GitHub Scholar
 image: https://image.ibb.co/nmOMzk/484A8254.jpg
 ---
 
