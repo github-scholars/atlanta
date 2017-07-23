@@ -2,7 +2,7 @@
 layout:generic
 title: Henry Williams
 Description: github scholar
-image: https://image.ibb.co/ftFKpk/hennry.jpg
+image: https://image.ibb.co/mCO0vQ/hennry.jpg
 ---
 
 Resume: https://github.com/github-scholars/resume-template
