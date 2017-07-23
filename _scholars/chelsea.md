@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: Chelsea Beauford
-description: scholar
+description: GitHub scholar
 image: https://image.ibb.co/c3ziC5/484A8223.jpg
 ---
 
