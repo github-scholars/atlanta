@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: Henry Williams
-description: scholar 1 description
+description: GitHub Scholar
 image: https://image.ibb.co/eYkqs5/484A8234.jpg
 ---
 
